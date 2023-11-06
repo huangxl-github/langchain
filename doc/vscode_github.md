@@ -8,3 +8,4 @@
 git config --global http.proxy http://127.0.0.1:7890
 git config --global https.proxy https://127.0.0.1:7890
 ```
+<img src="https://github.com/huangxl-github/langchain/blob/main/doc/images/vscode_github/002.png" style="width:500px;height:auto;">
