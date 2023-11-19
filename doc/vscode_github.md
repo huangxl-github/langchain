@@ -7,6 +7,9 @@
 ```
 git config --global http.proxy http://127.0.0.1:7890
 git config --global https.proxy https://127.0.0.1:7890
+
+git config --global -unset http.proxy
+git config --global -unset https.proxy
 ```
 <img src="https://github.com/huangxl-github/langchain/blob/main/doc/images/vscode_github/002.png" style="width:700px;height:auto;">
 
